@@ -1,0 +1,57 @@
+# Foundry
+cache/
+out/
+broadcast/
+
+# Environment variables
+.env
+
+# Dependencies
+contracts/lib/
+
+# Node (if adding frontend)
+node_modules/
+.next/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Deployment artifacts
+deployments/*.json
+!deployments/.gitkeep
+
+# Test coverage
+coverage/
+lcov.info
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Mini app specific
+miniapp/.env.local
+miniapp/node_modules/
+miniapp/dist/
+miniapp/.vercel/
+
+# Generated images (keep templates only)
+miniapp/public/images/*.png
+miniapp/public/images/*.jpg
+!miniapp/public/images/*.svg
+
+# Claude
+.claude/

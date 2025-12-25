@@ -1,0 +1,63 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A0F1E;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#151B2E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A0F1E;stop-opacity:1" />
+    </linearGradient>
+
+    <linearGradient id="robotGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0052FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5B8DEE;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#heroBg)"/>
+
+  <!-- Grid pattern -->
+  <g opacity="0.1">
+    <path d="M 0,0 L 1200,0 M 0,70 L 1200,70 M 0,140 L 1200,140 M 0,210 L 1200,210 M 0,280 L 1200,280 M 0,350 L 1200,350 M 0,420 L 1200,420 M 0,490 L 1200,490 M 0,560 L 1200,560 M 0,630 L 1200,630"
+          stroke="#0052FF" stroke-width="1"/>
+    <path d="M 0,0 L 0,630 M 100,0 L 100,630 M 200,0 L 200,630 M 300,0 L 300,630 M 400,0 L 400,630 M 500,0 L 500,630 M 600,0 L 600,630 M 700,0 L 700,630 M 800,0 L 800,630 M 900,0 L 900,630 M 1000,0 L 1000,630 M 1100,0 L 1100,630 M 1200,0 L 1200,630"
+          stroke="#0052FF" stroke-width="1"/>
+  </g>
+
+  <!-- Robot Icon (larger) -->
+  <g transform="translate(350, 315)">
+    <rect x="-90" y="-100" width="180" height="140" rx="20" fill="url(#robotGrad)"/>
+    <circle cx="-40" cy="-60" r="18" fill="#FFFFFF"/>
+    <circle cx="40" cy="-60" r="18" fill="#FFFFFF"/>
+    <line x1="0" y1="-100" x2="0" y2="-130" stroke="#0052FF" stroke-width="6"/>
+    <circle cx="0" cy="-140" r="12" fill="#00D395"/>
+    <rect x="-60" y="-10" width="120" height="30" rx="4" fill="#FFFFFF" opacity="0.3"/>
+    <path d="M -50,5 L -30,-10 L -10,10 L 10,-5 L 30,8 L 50,-8"
+          stroke="#FFFFFF" stroke-width="3" fill="none"/>
+  </g>
+
+  <!-- Text Content -->
+  <text x="650" y="220" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#FFFFFF">
+    Agent Prediction
+  </text>
+  <text x="650" y="290" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#0052FF">
+    Markets
+  </text>
+  <text x="650" y="360" font-family="Arial, sans-serif" font-size="28" fill="#9CA3AF">
+    AI-Powered Predictions on Base
+  </text>
+
+  <!-- Stats boxes -->
+  <g transform="translate(650, 420)">
+    <rect x="0" y="0" width="160" height="80" rx="8" fill="#151B2E" stroke="#0052FF" stroke-width="2"/>
+    <text x="80" y="35" font-family="Arial" font-size="28" font-weight="bold" fill="#00D395" text-anchor="middle">Live</text>
+    <text x="80" y="60" font-family="Arial" font-size="16" fill="#9CA3AF" text-anchor="middle">On Base</text>
+
+    <rect x="180" y="0" width="160" height="80" rx="8" fill="#151B2E" stroke="#0052FF" stroke-width="2"/>
+    <text x="260" y="35" font-family="Arial" font-size="28" font-weight="bold" fill="#0052FF" text-anchor="middle">ETH</text>
+    <text x="260" y="60" font-family="Arial" font-size="16" fill="#9CA3AF" text-anchor="middle">Rewards</text>
+
+    <rect x="360" y="0" width="160" height="80" rx="8" fill="#151B2E" stroke="#0052FF" stroke-width="2"/>
+    <text x="440" y="35" font-family="Arial" font-size="28" font-weight="bold" fill="#5B8DEE" text-anchor="middle">AI</text>
+    <text x="440" y="60" font-family="Arial" font-size="16" fill="#9CA3AF" text-anchor="middle">Agents</text>
+  </g>
+</svg>

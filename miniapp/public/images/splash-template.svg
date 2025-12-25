@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="splashBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0052FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#5B8DEE;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="200" height="200" fill="url(#splashBg)" rx="30"/>
+
+  <g transform="translate(100, 100)">
+    <!-- Simple robot head -->
+    <rect x="-35" y="-40" width="70" height="55" rx="8" fill="#FFFFFF"/>
+    <circle cx="-15" cy="-25" r="7" fill="#0052FF"/>
+    <circle cx="15" cy="-25" r="7" fill="#0052FF"/>
+    <line x1="0" y1="-40" x2="0" y2="-55" stroke="#FFFFFF" stroke-width="3"/>
+    <circle cx="0" cy="-60" r="5" fill="#00D395"/>
+    <rect x="-25" y="-5" width="50" height="12" rx="2" fill="#0052FF" opacity="0.2"/>
+  </g>
+</svg>
