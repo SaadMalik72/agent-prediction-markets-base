@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { WagmiProvider } from 'wagmi';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { config } from './wagmi.config';
-import { ConnectWallet } from '@coinbase/onchainkit/wallet';
+import { WalletConnect } from './components/WalletConnect';
 import { RegisterAgent } from './components/RegisterAgent';
 import { AgentList } from './components/AgentList';
 import { CreateMarket } from './components/CreateMarket';
@@ -24,7 +24,7 @@ function AppContent() {
             <h1>🤖 Agent Prediction Markets</h1>
             <p>AI-Powered Predictions on Base</p>
           </div>
-          <ConnectWallet />
+          <WalletConnect />
         </div>
       </header>
 
