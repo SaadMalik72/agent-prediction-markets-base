@@ -11,7 +11,7 @@ foundryup
 ```
 
 2. **ETH for Gas Fees**
-- Base Sepolia: Get testnet ETH from [Base Sepolia Faucet](https://www.coinbase.com/faucets/base-ethereum-goerli-faucet)
+- Base Sepolia: Get testnet ETH from [Base Sepolia Faucet](https://www.coinbase.com/faucets/base-ethereum-sepolia-faucet)
 - Base Mainnet: Need real ETH (minimum 0.001 ETH + gas fees ~0.01 ETH)
 
 3. **BaseScan API Key**
@@ -54,7 +54,7 @@ source .env
 
 ### Step 1: Get Testnet ETH
 
-Visit: https://www.coinbase.com/faucets/base-ethereum-goerli-faucet
+Visit: https://www.coinbase.com/faucets/base-ethereum-sepolia-faucet
 
 You need at least 0.01 ETH for deployment + gas.
 
